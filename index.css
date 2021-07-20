@@ -1,5 +1,6 @@
 h1 {
   font-size: 60px;
+  text-align: center;
 }
 
 .paragraph {
@@ -7,15 +8,14 @@ h1 {
   padding: 24px;
 }
 .paragraph .inner {
-  width: 600px;
+  width: 400px;
   margin: 0 auto;
+  text-align: center;
 }
 .paragraph h2 {
   font-size: 24px;
   color: lightgray;
-  text-align: center;
 }
 .paragraph p {
   font-size: 16px;
-  text-align: center;
 }
